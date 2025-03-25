@@ -1,0 +1,1 @@
+https://github.com/PHPMailer/PHPMailer/tree/v6.9.3

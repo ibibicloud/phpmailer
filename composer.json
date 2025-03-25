@@ -1,0 +1,19 @@
+{
+    "name": "ibibicloud/phpmailer",
+    "keywords": ["ibibicloud","phpmailer"],
+    "description": "基于PHPMailer=v6.9.6",
+    "license": "LGPL-2.1-only",
+    "require": {
+        "php": ">=5.6.0",
+        "ext-ctype": "*",
+        "ext-filter": "*",
+        "ext-hash": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPMailer\\": "src/"
+        },
+        "file": [
+        ]
+    }
+}
