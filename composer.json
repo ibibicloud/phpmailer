@@ -1,5 +1,6 @@
 {
     "name": "ibibicloud/phpmailer",
+    "type": "library",
     "keywords": ["ibibicloud","phpmailer"],
     "description": "基于PHPMailer=v6.9.6",
     "license": "LGPL-2.1-only",
